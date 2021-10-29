@@ -33,3 +33,12 @@ printf c = a + b;
 #printhacking
 System.out.println("let us hack this"):
 hack2021
+
+class calculator{
+public static void main int args(){
+int a  = 6;
+int b = 8;
+int c;
+printf c = a * b;
+
+}
